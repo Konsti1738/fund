@@ -17,7 +17,7 @@ def calculate(op1,op2,mode):
         
     return(y)
     end
-
+y = None
 my_result = calculate(op1,op2,mode)
 print(my_result)
 
